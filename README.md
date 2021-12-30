@@ -21,7 +21,7 @@ print("Exponentiation of a given number:",n3)
 ```
 
 ## Output:
-![exponentiation of a number](expo.JPG)
+![exponentiation of a number](expo.jpg)
 
 
 ## Result:
